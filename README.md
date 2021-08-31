@@ -6,3 +6,5 @@
 - 💞️ Present, I'm working with/learning about Robotics and Web Development 🤖
 - 😎 Let's just say, I'm still exploring everything 😉
 
+<a href="mailto: tadavarthivenkatamadhav@gmail.com"><img src="https://www.freepngimg.com/thumb/gmail/66440-google-icons-symbol-computer-email-gmail.png" alt="Mail" width="50px" height="50px"></a>
+
