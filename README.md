@@ -1,9 +1,11 @@
 # <p align = center> About Me 😄 </p>
 
-- 👋 Hi, I’m Venkata Madhav
-- 👀 I’m interested in everything (Just the eager to explore all stuffs) 😜
+- 👋 Hi, My name is Venkata Madhav
+- 👀 I'm interested in Graphic Designing, Robotics, Web Dev and many more  
 - 🌱 I’m currently in my second year of engineering 🤟
 - 💞️ Addicted to Robotics 🤖
 
-<a href="mailto: tadavarthivenkatamadhav@gmail.com"><img src="https://www.freepngimg.com/thumb/gmail/66440-google-icons-symbol-computer-email-gmail.png" alt="Mail" width="50px" height="50px"></a>
-    <a href="https://www.linkedin.com/in/madhav2133/"><img src="https://freepngimg.com/thumb/linkedin/10-2-linkedin-png-clipart.png" alt="LinkedIn" width="50px" height="50px"></a>
+<a href="https://madhav2133.github.io/" target="_blank"><img src="https://img.icons8.com/ios/48/ffffff/globe--v1.png"/></a> &nbsp;
+<a href="mailto:tadavarthivenkatamadhav@gmail.com"><img src="https://img.icons8.com/ios-filled/50/ffffff/apple-mail.png"/></a> &nbsp;
+<a href="https://www.linkedin.com/in/madhav2133"><img src="https://img.icons8.com/ios-filled/50/ffffff/linkedin.png"/></a>
+
