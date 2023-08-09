@@ -1,8 +1,8 @@
 # <p align = center> About Me 😄 </p>
 
 - 👋 Hi, My name is Venkata Madhav
-- 👀 I'm interested in Graphic Designing, Robotics, Web Dev and many more  
-- 🌱 I’m currently in my second year of engineering 🤟
+- 👀 I'm interested in Robotics and Graphic Design
+- 🌱 I’m currently in my final year of engineering 🤟
 - 💞️ Addicted to Robotics 🤖
 
 <a href="https://madhav2133.github.io/" target="_blank"><img src="https://img.icons8.com/ios/48/ffffff/globe--v1.png"/></a> &nbsp;
