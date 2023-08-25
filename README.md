@@ -1,7 +1,6 @@
 # <p align = center> About Me 😄 </p>
 
 - 👋 Hi, My name is Venkata Madhav
-- 👀 I'm interested in Robotics and Graphic Design
 - 🌱 I’m currently in my final year of engineering 🤟
 - 💞️ Addicted to Robotics 🤖
 
