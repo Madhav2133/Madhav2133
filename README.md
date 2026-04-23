@@ -1,4 +1,4 @@
-<h1 align="center">Venkata Madhav</h1>
+<h1 align="center">Venkata Madhav Tadavarthi</h1>
 <h3 align="center">Robotics Engineer · Perception · Planning · Underwater Systems</h3>
 
 <p align="center">
