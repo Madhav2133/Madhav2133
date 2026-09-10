@@ -12,7 +12,7 @@
 
 ### About
 
-Master's student in Robotics at the **University of Maryland, College Park** (GPA 3.78).  
+Master's student in Robotics at the **University of Maryland, College Park** (GPA 3.80).  
 I build autonomous systems, from underwater vehicles to multi-robot swarms - with a focus on perception, motion planning, and controls.
 
 - 🌊 Passionate about **underwater & maritime robotics** (AUV, ROV, ocean autonomy)
