@@ -52,8 +52,10 @@ I build autonomous systems, from underwater vehicles to multi-robot swarms - wit
 **Simulation**
 
 ![Gazebo](https://img.shields.io/badge/Gazebo-F58113?style=flat)
+![MuJoCo Sim](https://img.shields.io/badge/MuJoCo-E74C3C?style=flat)
 ![Isaac Sim](https://img.shields.io/badge/Isaac%20Sim-76B900?style=flat&logo=nvidia&logoColor=white)
 ![Webots](https://img.shields.io/badge/Webots-E74C3C?style=flat)
+
 
 **ML / Vision**
 
@@ -69,10 +71,3 @@ I build autonomous systems, from underwater vehicles to multi-robot swarms - wit
 IEEE OCEANS 2024 · Singapore · [doi.org/10.1109/OCEANS51537.2024.10682334](https://doi.org/10.1109/OCEANS51537.2024.10682334)
 
 ---
-
-### GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Madhav2133&show_icons=true&hide_border=true&theme=default" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Madhav2133&layout=compact&hide_border=true&theme=default" height="150"/>
-</p>
