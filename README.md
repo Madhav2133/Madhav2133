@@ -1,5 +1,5 @@
 <h1 align="center">Venkata Madhav Tadavarthi</h1>
-<h3 align="center">Robotics Engineer · Perception · Planning · Underwater Systems</h3>
+<h3 align="center">Robotics Engineer · Perception · Planning · Controls</h3>
 
 <p align="center">
   <a href="https://madhav2133.github.io/">Portfolio</a> ·
